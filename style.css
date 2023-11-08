@@ -1,0 +1,60 @@
+body{
+    margin: 0px;
+}
+/*Halaman index*/
+nav{
+    background-color: #4d70b6;
+    overflow: hidden;
+}
+nav a{
+    text-decoration: none;
+    color: aliceblue;
+    float: right;
+    padding: 20px;
+}
+nav img{
+    float: left;
+    padding: 10px;
+}
+nav a:hover{
+    text-decoration: none;
+    color: #4d70b6;
+    float: right;
+    padding: 20px;
+    background: #FFFFFF;
+}
+h1{
+    color: #4d70b6;
+}
+/*Halaman Index*/
+/*Halaman LOGIN*/
+.warf{
+    padding: 50px 500px 50px 500px;
+}
+.bg-login{
+    background-color: #FFFFFF;
+    border-radius: 50px;
+}
+input[type=text],input[type=password]{
+    width: 250px;
+}
+input[type=sumbit]{
+    background-color: #4d70b6;
+    color: #FFFFFF;
+    width: 100px;
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+    display: inline-block;
+    border-radius: 100px;
+}
+input{
+    background-color: #b64d4d;
+    color: #FFFFFF;
+    width: 100px;
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+    display: inline-block;
+    border-radius: 100px
+}
+  
+/*Halaman*/
